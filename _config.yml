@@ -14,7 +14,6 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
 url                      : https://spaldingpitzenur80-cpu.github.io # The base hostname & protocol for your site
-type                     :
 baseurl                  : "/LJT-Homepage" # the subpath of your site, e.g. "/blog"
 repository               : "spaldingpitzenur80-cpu/LJT-Homepage"
 
@@ -275,9 +274,6 @@ whitelist:
 
 
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~>
-#  - Jekyll Archives plugin archive pages ~>
 category_archive:
   type: liquid
   path: /categories/
